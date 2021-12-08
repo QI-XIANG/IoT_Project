@@ -60,14 +60,13 @@ def handle_postback(event):
     reply_token = event.reply_token
     if postback_data == "getCurrentPhoto":
         FlexMessage = json.load(open('returnPhotoTable.json','r',encoding='utf-8'))
-        FlexMessage["hero"]["url"] = "IoT_lineBot\thumb1.jpg"
+        FlexMessage["hero"]["url"] = "https://raw.githubusercontent.com/QI-XIANG/IoT_Project/main/IoT_lineBot/thumb1.jpg"
         FlexMessage["body"]["contents"][1]["contents"][2]["contents"][1]["text"] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         line_bot_api.reply_message(reply_token, FlexSendMessage('即時照片查看',FlexMessage))
     elif postback_data == "resetStatus":
         line_bot_api.reply_message(reply_token, TextSendMessage(text="重置狀態中..."))
     elif postback_data == "takePhoto":
         FlexMessage = json.load(open('returnPhotoTable.json','r',encoding='utf-8')) 
-        FlexMessage["hero"]["url"] = "IoT_lineBot\thumb1.jpg"
         FlexMessage["body"]["contents"][1]["contents"][2]["contents"][1]["text"] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         line_bot_api.reply_message(reply_token, FlexSendMessage('即時照片查看',FlexMessage))
     elif postback_data == "backToFunctionTable":
