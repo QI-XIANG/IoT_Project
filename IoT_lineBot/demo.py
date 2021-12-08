@@ -8,9 +8,7 @@ from linebot.exceptions import (
 from linebot.models import *
 import json
 
-#FlexMessage = json.load(open('BasicTable.json','r',encoding='utf-8'))
-
-#print(type(FlexMessage))
+from datetime import datetime
 
 app = Flask(__name__)
 # LINE BOT info
@@ -62,8 +60,19 @@ def handle_postback(event):
     reply_token = event.reply_token
     if postback_data == "getCurrentPhoto":
         FlexMessage = json.load(open('returnPhotoTable.json','r',encoding='utf-8'))
-        line_bot_api.reply_message(reply_token, FlexSendMessage('test2',FlexMessage))
-
+        FlexMessage["hero"]["url"] = "IoT_lineBot\thumb1.jpg"
+        FlexMessage["body"]["contents"][1]["contents"][2]["contents"][1]["text"] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        line_bot_api.reply_message(reply_token, FlexSendMessage('即時照片查看',FlexMessage))
+    elif postback_data == "resetStatus":
+        line_bot_api.reply_message(reply_token, TextSendMessage(text="重置狀態中..."))
+    elif postback_data == "takePhoto":
+        FlexMessage = json.load(open('returnPhotoTable.json','r',encoding='utf-8')) 
+        FlexMessage["hero"]["url"] = "IoT_lineBot\thumb1.jpg"
+        FlexMessage["body"]["contents"][1]["contents"][2]["contents"][1]["text"] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        line_bot_api.reply_message(reply_token, FlexSendMessage('即時照片查看',FlexMessage))
+    elif postback_data == "backToFunctionTable":
+        FlexMessage = json.load(open('BasicTable.json','r',encoding='utf-8'))
+        line_bot_api.reply_message(reply_token, FlexSendMessage('綜合功能表',FlexMessage))
 
 import os
 if __name__ == "__main__":
