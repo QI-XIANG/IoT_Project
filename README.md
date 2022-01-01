@@ -46,5 +46,38 @@ This project is a simple implementation of the real-world Skynet.
         7. User can press down the "reset" button to reset the status of the device.
      
      * Without Stranger
+        1. Raspberry Pi will keep getting images from the connected camera.
+        2. Raspberry Pi will use the image and recognition model to identify if there exists any stranger. 
+        3. After identifying by the Raspberry Pi there does not exist any stranger. 
+        4. Only one thing will happen:
+            *  The light‑emitting diode will keep lighting with green light.
+        5. User can interact with Line Bot and press down the "taking photo" button to ask Raspberry Pi for taking pictures and return them.
+        6. Raspberry Pi will use Line to send the image gotten from the connected camera every 5 seconds for 1 minute with 12 images in total. 
+
+---
+
+## :thought_balloon: Required Components
+
+| Name              | Quantity                    | 
+| ----------------- |:-----------------------  |
+| Raspberry Pi 3 model B      | 1   |
+|32G SD card| 1 | 
+| Breadboard | 1    | 
+|          5V Traffic Light LED Display Module        |      1                   | 
+| Dupont Line         | many   |  
+| Raspberry Pi Camera Moudule V2        | 1  |  
+|Raspberry Pi Camera Module V2 Case| 1| 
+| MG996R 55g Metal Gear Torque Digital Servo Motor   | 1 | 
+| Buzzer  | 1 |  
+| Intel® Neural Compute Stick 2 | 1 |
+| Adhesive Tape  | 1 |
+| Carton| 1 |
+|PCA9685: 16-Channel, 12-Bit PWM Fm+ I²C-Bus LED Controller| 1 |
+|GPIO Expansion T Board for Raspberry Pi|1|
+|Rainbow Cable|1|
+|Adafruit PCA9685 16-Channel Servo Driver|1|
+
+---
+
 
 ![](https://imgur.dcard.tw/VNQcyu8h.jpg)
