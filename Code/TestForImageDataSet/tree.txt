@@ -1,0 +1,56 @@
+C:.
+¢x  306px-Rimuru.png
+¢x  first_try.h5
+¢x  GG.png
+¢x  GG_edit_0_145.png
+¢x  ImagePreProcessing.ipynb
+¢x  model.h5
+¢x  slime_edit_0_41.jpeg
+¢x  tree.txt
+¢x  
+¢u¢w.ipynb_checkpoints
+¢x      ImagePreProcessing-checkpoint.ipynb
+¢x      
+¢u¢wTest
+¢x  ¢u¢wGG
+¢x  ¢x      GG.png
+¢x  ¢x      GG_edit_0_145.png
+¢x  ¢x      GG_edit_0_157.png
+¢x  ¢x      GG_edit_0_160.png
+¢x  ¢x      GG_edit_0_167.png
+¢x  ¢x      GG_edit_0_183.png
+¢x  ¢x      ...
+¢x  ¢x      
+¢x  ¢|¢wSlime
+¢x          306px-Rimuru.png
+¢x          slime.jpg
+¢x          v_119519132_m_601_480_270.jpg
+¢x    ...
+¢x          
+¢|¢wTrain
+    ¢u¢wGG
+    ¢x      GG_edit_0_1060.png
+    ¢x      GG_edit_0_1074.png
+    ¢x      GG_edit_0_1077.png
+    ¢x      GG_edit_0_1078.png
+    ¢x      GG_edit_0_1103.png
+    ¢x      GG_edit_0_1106.png
+    ¢x      GG_edit_0_1110.png
+    ¢x      GG_edit_0_1132.png
+    ¢x      GG_edit_0_1158.png
+    ¢x      GG_edit_0_1229.png
+    ¢x      ...
+    ¢x      
+    ¢|¢wSlime
+            slime_edit_0_1.jpeg
+            slime_edit_0_1002.jpeg
+            slime_edit_0_1035.jpeg
+            slime_edit_0_1055.jpeg
+            slime_edit_0_1081.jpeg
+            slime_edit_0_1090.jpeg
+            slime_edit_0_1091.jpeg
+            slime_edit_0_1106.jpeg
+            slime_edit_0_1125.jpeg
+            slime_edit_0_1128.jpeg
+            ...
+            
