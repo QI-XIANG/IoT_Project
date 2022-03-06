@@ -1,6 +1,6 @@
 2021 IoT Final Project
 
-I will update more content here soon!
+[Full document of the project](https://hackmd.io/@qixiang1009/SJ-8ugRoY/https%3A%2F%2Fhackmd.io%2Fj37E31Q8QgC-W-Iine0kTg%3Fview%23My-Little-Skynet)
 
 # My Little Skynet 
 
