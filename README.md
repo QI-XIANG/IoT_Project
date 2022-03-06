@@ -535,5 +535,3 @@ https://stackoverflow.com/questions/63359321/type-error-fit-generator-got-an-une
 https://keras.io/zh/models/model/
 
 ---
-
-![](https://imgur.dcard.tw/VNQcyu8h.jpg)
