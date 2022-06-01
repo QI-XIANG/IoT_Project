@@ -1,6 +1,12 @@
-2021 IoT Final Project
+# Practical Internet of Things 
 
-[Full document of the project](https://hackmd.io/@qixiang1009/SJ-8ugRoY/https%3A%2F%2Fhackmd.io%2Fj37E31Q8QgC-W-Iine0kTg%3Fview%23My-Little-Skynet)
+![](https://badgen.net/github/watchers/QI-XIANG/NCU_IoT_Project) ![](https://badgen.net/github/commits/QI-XIANG/NCU_IoT_Project) ![](https://badgen.net/github/last-commit/QI-XIANG/NCU_IoT_Project) ![](https://badgen.net/github/license/QI-XIANG/NCU_IoT_Project)
+
+| 課程名稱: | 課程時間 | 授課教授 |
+| -------- | -------- | -------- |
+| 物聯網實務應用     | 2021年9月~隔年1月     | 柯士文教授     |
+
+[Full Document](https://hackmd.io/@qixiang1009/SJ-8ugRoY/https%3A%2F%2Fhackmd.io%2Fj37E31Q8QgC-W-Iine0kTg%3Fview%23My-Little-Skynet)
 
 # My Little Skynet
 
