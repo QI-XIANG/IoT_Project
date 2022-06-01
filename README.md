@@ -1099,12 +1099,11 @@ Have fun and stay cool~
 
 ### My Little Skynet Demo Part 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R9M28kE2mPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=R9M28kE2mPs&ab_channel=%E4%B8%AD%E9%87%8E%E4%BA%8C%E4%B9%83
 
 ### My Little Skynet Demo Part 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rzfvn844HQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=Rzfvn844HQI&ab_channel=%E4%B8%AD%E9%87%8E%E4%BA%8C%E4%B9%83
 
 ---
 
