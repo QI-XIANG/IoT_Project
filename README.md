@@ -4,8 +4,6 @@
 
 # My Little Skynet
 
-###### tags: `IoT` `My Little Skynet` `Project Doc Github Ver`
-
 > This is the introduction of the IoT project. 🎅
 
 "My Little Skynet" is the final project of the IoT course at NCU, Taiwan. This project may still have many bugs or defects to fix and improve. So it is very welcome for you to issue me on my Github.
@@ -1116,8 +1114,6 @@ In this appendix, I will introduce and teach you some key points for finishing t
 
 ## How to send flex message with FLEX MESSAGE SIMULATOR?
 
-###### tags: `IoT` `My Little Skynet`
-
 ### FLEX MESSAGE SIMULATOR
 
 You can use [FLEX MESSAGE SIMULATOR](https://developers.line.biz/flex-simulator/?status=success) to create your own flex message template. 
@@ -1142,8 +1138,6 @@ https://developers.line.biz/en/docs/messaging-api/using-flex-messages/
 https://developers.line.biz/flex-simulator/
 
 ## How to send local image with Line Bot?
-
-###### tags: `IoT` `My Little Skynet`
 
 ### Image Sending Restriction
 
@@ -1174,8 +1168,6 @@ https://ngrok.com/docs
 https://developers.line.biz/en/docs/messaging-api/message-types/#image-messages
 
 ## Where to get the required components?
-
-###### tags: `IoT` `My Little Skynet`
 
 ### Physical Store
 
@@ -1218,8 +1210,6 @@ https://www.ruten.com.tw/
 
 ## How to draw the circuit diagram?
 
-###### tags: `IoT` `My Little Skynet`
-
 ### Tinkercad
 [Tinkercad](https://www.tinkercad.com/) is a free, easy-to-use web app that equips the next generation of designers and engineers with the foundational skills for innovation: 3D design, electronics, and coding!
 
@@ -1256,8 +1246,6 @@ https://github.com/adafruit/Fritzing-Library
 https://blog.cavedu.com/2013/09/21/%E5%9C%A8fritzing%E6%96%B0%E5%A2%9Eraspberry-pi%E6%A8%A1%E7%B5%84/
 
 ## Other useful tools while developing your own IoT project
-
-###### tags: `IoT` `My Little Skynet`
 
 ### [Google Codelabs](https://colab.research.google.com/notebooks/welcome.ipynb?hl=en-US#scrollTo=5fCEDCU_qrC0)
 ![](https://i.imgur.com/6UJPE4q.png)
