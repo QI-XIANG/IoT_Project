@@ -110,11 +110,9 @@ This device will inform the user by sending a Line message if any stranger or we
 
 ## :books: Line Bot
 
-###### tags: `IoT` `My Little Skynet`
-
 >First of all, you should have a Line account before creating your Line Bot. 
 
-### 1. [Line Developers](https://developers.line.biz/en/)
+### [Line Developers](https://developers.line.biz/en/)
 
 1. Go to the Line Developers Website and log in.
 
@@ -140,7 +138,7 @@ This device will inform the user by sending a Line message if any stranger or we
     * You will see the following graph after you finish editing the channel information. ![](https://i.imgur.com/YjN8OjP.png)
  
 
-### 2. [LINE Messaging API SDK for Python](https://github.com/line/line-bot-sdk-python)
+### [LINE Messaging API SDK for Python](https://github.com/line/line-bot-sdk-python)
 
 In this repository, you can get some instructions and the Line Bot Template.
 
@@ -199,7 +197,7 @@ if __name__ == "__main__":
     app.run()
 ```
 
-### 3. Webhook
+### Webhook
 
  > A webhook in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks. -- Wikipedia 
 
@@ -222,7 +220,7 @@ With webhook, we can simply customize the messages sent to the end user.
 Next, we will use Ngrok to start localhost and make it work as our webhook.
 
 
-### 4. [Ngrok](https://ngrok.com)
+### [Ngrok](https://ngrok.com)
 
 > **What is ngrok?**
 Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
@@ -246,7 +244,7 @@ It will expose a web server on port 80 of your local machine to the Internet.
 
 ![](https://i.imgur.com/OCodzUq.png)
 
-### 5. Reference
+### Reference
 
 https://medium.com/@justinlee_78563/line-bot-%E7%B3%BB%E5%88%97%E6%96%87-%E4%BB%80%E9%BA%BC%E6%98%AF-webhook-d0ab0bb192be
 
@@ -261,8 +259,6 @@ https://developers.line.biz/en/
 https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## :sailboat: CNN Model
-
-###### tags: `IoT` `My Little Skynet`
 
 > CNN is the subset of deep learning, It is similar to the basic neural network. 
 > 
@@ -562,8 +558,6 @@ https://keras.io/zh/models/model/
 
 ## :book: 1. Python Packages Requirement
 
-###### tags: `IoT` `My Little Skynet`
-
 | Package  | Version |
 | -------- | -------- |
 |absl-py  |                        1.0.0      |
@@ -722,8 +716,6 @@ zipp                             |3.7.0
 
 ## 2. Basic Settings for Rasberry Pi
 
-###### tags: `IoT` `My Little Skynet`
-
 ### Interfaces Configuration
 
 * Enableed
@@ -766,8 +758,6 @@ zipp                             |3.7.0
 
 ## 3. The Circuit Diagram
 
-###### tags: `IoT` `My Little Skynet`
-
 ![](https://i.imgur.com/FfapWGr.jpg)
 
 ![](https://i.imgur.com/waKiiMN.jpg)
@@ -777,8 +767,6 @@ zipp                             |3.7.0
 https://github.com/adafruit/Fritzing-Library/blob/master/parts/retired/PCA9685%2016x12-bit%20PWM%20Breakout.fzpz
 
 ## 4. Line Bot Source Code
-
-###### tags: `IoT` `My Little Skynet`
 
 ### Code
 
@@ -939,8 +927,6 @@ https://developers.line.biz/flex-simulator/
 
 ## 5. Servo Motor Control
 
-###### tags: `IoT` `My Little Skynet`
-
 ### Source Code
 
 ```python=
@@ -1019,8 +1005,6 @@ https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi/us
 
 ## 6. Camera Control
 
-###### tags: `IoT` `My Little Skynet`
-
 > This section is just for testing the camera can work properly with the picamera package.
 
 ### Source Code
@@ -1047,8 +1031,6 @@ while counter <= 5:
 https://picamera.readthedocs.io/en/release-1.13/
 
 ## 7. Start two localhost Server
-
-###### tags: `IoT` `My Little Skynet`
 
 ### Ngrok
 
@@ -1095,8 +1077,6 @@ https://ngrok.com/docs
 
 ## 8. Interact with Line Bot
 
-###### tags: `IoT` `My Little Skynet`
-
 If you finish the above steps successfully, then you can interact with the Line Bot happily.
 
 If there is any problem you want to ask, you can issue me [here](https://github.com/QI-XIANG/IoT_Project).
@@ -1113,8 +1093,6 @@ Have fun and stay cool~
 
 ## My Little Skynet Demo
 
-###### tags: `IoT` `My Little Skynet`
-
 ### My Little Skynet Demo Part 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R9M28kE2mPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -1129,8 +1107,6 @@ Have fun and stay cool~
 # Appendix
 
 ## About the Appendix
-
-###### tags: `IoT` `My Little Skynet`
 
 In this appendix, I will introduce and teach you some key points for finishing the interesting IoT project. Don't be afraid when you encounter problems, because there are so many solutions buried in the Internet waiting for your visit. If you are overwhelmed while reading so much data search from the Internet, you can just take a rest and restart later. For me, I like to watch animation while taking a rest. 
 
