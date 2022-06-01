@@ -8,7 +8,7 @@
 
 > This is the introduction of the IoT project. 🎅
 
-"My Little Skynet" is the final project of the IoT course at NCU, Taiwan. This project may still have many bugs or defects to fix and improve. So it is very welcome for you to issue me on my Github. ^^
+"My Little Skynet" is the final project of the IoT course at NCU, Taiwan. This project may still have many bugs or defects to fix and improve. So it is very welcome for you to issue me on my Github.
 
 ## :book: Story Behind The Project
 
